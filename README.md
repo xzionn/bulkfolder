@@ -17,10 +17,10 @@ Find the file or folder whose path you want to know in File Explorer. Hold Shift
 
 ## Example BulkFolder when run
 
-This is countdir
+## This is countdir
 ![alt text](https://github.com/xzionn/bulkfolder/blob/main/example/countdir.png)
 
-This is dirlist
+## This is dirlist
 ![alt text](https://github.com/xzionn/bulkfolder/blob/main/example/dirlist.png)
 
 
