@@ -5,6 +5,7 @@ Are you confused about how to create a folder with a list name or with a number 
 
 
 ## How To Run
+```python bulk.py``` Or ```python3 bulk.py```
 
 for Linux users, how to find out the full path, use pwd, then paste the full path output.
 
